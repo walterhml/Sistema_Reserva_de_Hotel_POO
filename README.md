@@ -1,5 +1,10 @@
 # Sistema_Reserva_de_Hotel_POO
 
+# para ver resultado
+baixe esse repositorio em sua maquina e coloque na pasta htdocs no xamp
+inicie o apache.
+abra o localhost do seu navegador, abrindo a pasta com o diretorio hotel.php!
+
 Este código PHP define quatro classes: Quarto, Hospede, Reserva, e Hotel.
 
 A classe Quarto representa um quarto de hotel com propriedades como número, tipo, preço da diária e um status de reserva. Possui um método verificarDisponibilidade que retorna se o quarto está disponível ou não.
